@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top: 75px;
+}
+
+text {
+ /* font: 10px sans-serif;
+  text-anchor: middle;*/
+}
+
+.axis {
+    font: 10px sans-serif;
+  }
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+/*label {
+  top: 10px;
+  right: 610px;
+}*/
