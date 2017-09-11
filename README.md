@@ -10,3 +10,4 @@ Clone project
 $ npm install
 $ npm start
 ```
+URL:  http://samidev.com/bar.html
